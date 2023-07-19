@@ -3,7 +3,7 @@ import React from 'react';
 const WorkoutDetails = ({ workout }) => {
     return (
         <div className="workout-details">
-            <h3>{workout.title}</h3>
+            <h4>{workout.title}</h4>
             <p>
                 <strong>Load (kg): </strong>
                 {workout.load}
