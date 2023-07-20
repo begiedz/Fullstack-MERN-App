@@ -1,6 +1,6 @@
 # Fullstack MERN Application
 
-## Excercise logger
+## Excercise logger with a help of The Net Ninja
 
 <h3>API Endpoints</h3>
 <p>GET      /workouts       -> Gets all the worout documents</p>
