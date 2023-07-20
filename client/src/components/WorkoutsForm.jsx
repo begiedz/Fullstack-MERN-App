@@ -60,6 +60,7 @@ const WorkoutsForm = () => {
                 value={load}
                 className={emptyFields.includes('load') ? 'error' : ''}
             />
+
             <label>Reps:</label>
             <input
                 type="number"
